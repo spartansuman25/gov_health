@@ -1,0 +1,13 @@
+{
+  "id": "4a5b87dc-015c-47db-ae77-f2f42e3bbb5a",
+  "name": "aggregate-data-entry",
+  "type": "app",
+  "title": "Data Entry (Beta)",
+  "minDHIS2Version": "2.39",
+  "coreApp": true,
+  "version": "100.3.6",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}

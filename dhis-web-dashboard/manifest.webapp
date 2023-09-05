@@ -1,0 +1,24 @@
+{
+  "app_hub_id": "8a05188c-5b2d-496d-a08e-595810748d52",
+  "appType": "APP",
+  "short_name": "dashboard",
+  "name": "Dashboard",
+  "description": "DHIS2 Dashboard app",
+  "version": "100.0.2",
+  "core_app": true,
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Wed Aug 30 2023 10:20:17 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
